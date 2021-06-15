@@ -42,5 +42,8 @@
     "typescript": "^4.1.3",
     "vscode-test": "^1.5.0"
   },
-  "publisher": "Radu"
+  "publisher": "Radu",
+  "repository": {
+    "url": "https://github.com/coderadu/fmdb"
+  }
 }
